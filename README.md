@@ -1,2 +1,1 @@
-# vicentevenegas.me
 MyPortfolio
